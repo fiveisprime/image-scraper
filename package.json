@@ -1,0 +1,14 @@
+{
+  "name": "image-scraper",
+  "version": "0.0.0",
+  "description": "Scrape and save images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hernandez <matt@modulus.io>",
+  "license": "MIT",
+  "dependencies": {
+    "scraper": "0.0.9"
+  }
+}
